@@ -1,0 +1,7 @@
+{
+  "name": "ProPrompt Assistant Elite chuẩn",
+  "description": "A high-end professional AI prompt engineering tool for content creators, featuring multi-modal script writing, SEO optimization, and visual consistency anchors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
